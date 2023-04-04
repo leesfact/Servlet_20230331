@@ -2,8 +2,8 @@
     pageEncoding="UTF-8"%>
     
 <%!
-	String name = "Lee Kang Yong";
-%>    
+	String name = "Kim junil";
+%>
 <!DOCTYPE html>
 <html>
 <head>
